@@ -1,0 +1,27 @@
+﻿female_clothes_secular_western_sample_01 = {
+	entity = { required_tags = ""		shared_pose_entity = torso		entity = female_clothes_secular_western_sample_01_entity }
+}
+male_clothes_secular_western_sample_01 = {
+	entity = { required_tags = ""		shared_pose_entity = torso		entity = male_clothes_secular_western_sample_01_entity }
+}
+
+female_clothes_secular_western_sample_02 = {
+	entity = { required_tags = ""		shared_pose_entity = torso		entity = female_clothes_secular_western_sample_02_entity }
+}
+male_clothes_secular_western_sample_02 = {
+	entity = { required_tags = ""		shared_pose_entity = torso		entity = male_clothes_secular_western_sample_02_entity }
+}
+
+female_clothes_secular_western_sample_03 = {
+	entity = { required_tags = ""		shared_pose_entity = torso		entity = female_clothes_secular_western_sample_03_entity }
+}
+male_clothes_secular_western_sample_03 = {
+	entity = { required_tags = ""		shared_pose_entity = torso		entity = male_clothes_secular_western_sample_03_entity }
+}
+
+female_clothes_secular_western_sample_04 = {
+	entity = { required_tags = ""		shared_pose_entity = torso		entity = female_clothes_secular_western_sample_04_entity }
+}
+male_clothes_secular_western_sample_04 = {
+	entity = { required_tags = ""		shared_pose_entity = torso		entity = male_clothes_secular_western_sample_04_entity }
+}
